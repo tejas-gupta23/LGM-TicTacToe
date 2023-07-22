@@ -1,1 +1,2 @@
-# LGM-TicTacToe
+# tic-tac-toe-game-code
+TicTacToeGame
